@@ -4045,7 +4045,9 @@ img.u-pull-left {
 .contact-top .h1 {
     margin-top : 0;
 }
-
+.no-bullets{
+  list-style-type: none;
+}
 .contact-bottom {
     padding-bottom : var(--vspace-3);
     margin-top     : var(--vspace-3);
